@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 21
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RutaLibreBDD2", "RutaLibreBDD2.ssmssqlproj", "{4C765769-E181-D291-DD94-9B9844903923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C765769-E181-D291-DD94-9B9844903923}.Default|Default.ActiveCfg = Default
+		{FC3DD97B-D91F-4F68-AAF4-A3D8B074EF4E}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7686F28D-C805-4212-A0FD-12986FFB1053}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="RutaLibreBDD2">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-O8766H6\SQLEXPRESS:DESKTOP-O8766H6\lucil">
+          <Created>2025-10-28T15:01:24.1938669-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-O8766H6\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>RutaLibreRentACar</InitialDB>
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>30</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="ConsultasDePrueba.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ConsultasDePrueba.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateDatabaseTables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CreateDatabaseTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FunctionAndView.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FunctionAndView.sql</FullPath>
+        </FileNode>
+        <FileNode Name="InsertData.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>InsertData.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pruebas2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Pruebas2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TriggerCursor.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TriggerCursor.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
