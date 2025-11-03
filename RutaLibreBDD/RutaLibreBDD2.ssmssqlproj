@@ -27,35 +27,47 @@
           <AssociatedConnUserName />
           <FullPath>ConsultasDePrueba.sql</FullPath>
         </FileNode>
-        <FileNode Name="CreateDatabaseTables.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
-          <AssociatedConnUserName />
-          <FullPath>CreateDatabaseTables.sql</FullPath>
-        </FileNode>
-        <FileNode Name="FunctionAndView.sql">
+        <FileNode Name="CreacionTablas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>FunctionAndView.sql</FullPath>
+          <FullPath>CreacionTablas.sql</FullPath>
         </FileNode>
-        <FileNode Name="InsertData.sql">
+        <FileNode Name="Funciones.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>InsertData.sql</FullPath>
+          <FullPath>Funciones.sql</FullPath>
         </FileNode>
-        <FileNode Name="Pruebas2.sql">
+        <FileNode Name="InsertarRegistros.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>Pruebas2.sql</FullPath>
+          <FullPath>InsertarRegistros.sql</FullPath>
         </FileNode>
-        <FileNode Name="TriggerCursor.sql">
+        <FileNode Name="spConCursor.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>TriggerCursor.sql</FullPath>
+          <FullPath>spConCursor.sql</FullPath>
+        </FileNode>
+        <FileNode Name="spReservaConTarifa.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>spReservaConTarifa.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TriggerDuplicados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TriggerDuplicados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="VistaDuplicados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-O8766H6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-O8766H6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>VistaDuplicados.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

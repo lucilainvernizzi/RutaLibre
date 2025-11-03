@@ -1,15 +1,17 @@
 USE RutaLibreRentACar;
 GO
 
--- Probar la función de margen
-SELECT * FROM dbo.fn_MargenServicio(1);
+--Ver todas las tablas
 
--- Ver márgenes de todos los servicios
-SELECT * FROM ServicioAdicional sa
-CROSS APPLY dbo.fn_MargenServicio(sa.idServicio);
-
--- Probar la vista de duplicados
-SELECT * FROM dbo.vw_VehiculosDuplicados;
-
-USE RutaLibreRentACar;
-GO
+SELECT * FROM Sucursal
+SELECT * FROM Vehiculo
+SELECT * FROM Categoria
+SELECT * FROM Tarifa
+SELECT * FROM CategoriaCliente
+SELECT * FROM Cliente
+SELECT * FROM Reserva
+SELECT * FROM DetalleReserva
+SELECT * FROM Garantia
+SELECT * FROM ServicioAdicional
+SELECT * FROM DetalleServicio
+SELECT * FROM Alerta
